@@ -4,10 +4,8 @@
 
 ### Steps I took to create this project environment
 
-### Step 1:
+### Initial Steps
 
-Initiating node.js `npm init -y`
-
-### Step 2:
-
-Installing Express `npm i express`
+- Initiating node.js `npm init -y`
+- Installing Express `npm i express`
+- Dev Dependencies `npm i nodemon -D` : Auto Restarts the Node Server. (Helpful)
